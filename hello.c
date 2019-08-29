@@ -1,8 +1,8 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * William Jones
+ * 8-28-2019
  *
- * A simple hello world program in C
+ * Test for C Language
  *
  */
 #include<stdlib.h>
